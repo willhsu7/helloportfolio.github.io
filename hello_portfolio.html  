@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="hello_portfolio.css" media="screen" title="no title" charset="utf-8">
+  <script type='text/javascript' src='hello_portfolio.js'></script>
+</head>
+
+<body>
+  <section class="intro">
+    <div class="content">
+      <div class="header-group">
+        <h1 class="header-title">Hi There!</h1>
+        <span>Enjoy</span>
+      </div>
+    </div>
+  </section>
+
+<section class="About Myself">
+  <img class="img-profile" src="https://s3.amazonaws.com/uifaces/faces/twitter/jm_denis/128.jpg"></img>
+</section>
+
+
+<section class="about-myself">
+  <img class="img-profile" src="https://s3.amazonaws.com/uifaces/faces/twitter/jm_denis/128.jpg"></img>
+  <h2>Let me tell you a little about me</h2>
+  <div class="presentation">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis dolore voluptas accusantium vero adipisci. Ab, officiis, molestiae. Quam ad enim accusantium mollitia delectus nesciunt laboriosam hic adipisci commodi perferendis similique minus
+    perspiciatis numquam est impedit quasi deleniti odio, ex aliquid ut sunt maxime, alias natus. Saepe dolores pariatur aperiam placeat, distinctio vitae, iure labore qui deleniti nemo assumenda dolore tenetur. A laboriosam aspernatur, ullam magni quos
+    soluta nam nemo, dolor optio ab fugit quas consequatur voluptatem reiciendis, similique molestias adipisci delectus eaque omnis, quisquam cum eligendi. Facere itaque ipsa, in ex a quam necessitatibus totam neque dolorum esse cumque omnis.</div>
+</section>
+
+<section class="services">
+  <h2>What I do</h2>
+  <div class="services-container">
+    <div class="service">
+      <div class="logo">
+        <i class="fa fa-code" aria-hidden="true"></i>
+      </div>
+      <h3>Development</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat ratione eius cum esse asperiores totam eaque odio sit, quae autem aspernatur nobis quia quam nam, velit laborum iusto porro atque! Ab saepe illo hic esse quas explicabo necessitatibus
+        ea error, architecto odio voluptate eum harum, itaque sit, non. Harum, iusto.</p>
+    </div>
+    <div class="service">
+      <div class="logo">
+        <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+      </div>
+      <h3>Originality</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat ratione eius cum esse asperiores totam eaque odio sit, quae autem aspernatur nobis quia quam nam, velit laborum iusto porro atque! Ab saepe illo hic esse quas explicabo necessitatibus
+        ea error, architecto odio voluptate eum harum, itaque sit, non. Harum, iusto.</p>
+    </div>
+    <div class="service">
+      <div class="logo">
+        <i class="fa fa-paint-brush" aria-hidden="true"></i>
+      </div>
+      <h3>Design</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat ratione eius cum esse asperiores totam eaque odio sit, quae autem aspernatur nobis quia quam nam, velit laborum iusto porro atque! Ab saepe illo hic esse quas explicabo necessitatibus
+        ea error, architecto odio voluptate eum harum, itaque sit, non. Harum, iusto.</p>
+    </div>
+  </div>
+  <div class="clear"></div>
+</section>
+
+<section class="portfolio">
+  <h2>Some works that i done</h2>
+
+  <div class="projects">
+
+    <div class="project">
+      <a href="#" target="_blank">
+        <div class="project-overlay"></div>
+        <img class="project-image" src="https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=204615391e1417eb122cf35079f65babine.png">
+        <div class="project-details">
+          <p class="project-description">Description</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="project">
+      <a href="#" target="_blank">
+        <div class="project-overlay"></div>
+        <img class="project-image" src="https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=204615391e1417eb122cf35079f65babrlay-hover-effects.png">
+        <div class="project-details">
+          <p class="project-description">Description</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="project">
+      <a href="#" target="_blank">
+        <div class="project-overlay"></div>
+        <img class="project-image" src="https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=204615391e1417eb122cf35079f65babver-effect.png">
+        <div class="project-details">
+          <p class="project-description">Description</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="project">
+      <a href="#" target="_blank">
+        <div class="project-overlay"></div>
+        <img class="project-image" src="https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=204615391e1417eb122cf35079f65babt.png">
+        <div class="project-details">
+          <p class="project-description">Description</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="project">
+      <a href="#" target="_blank">
+        <div class="project-overlay"></div>
+        <img class="project-image" src="https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=204615391e1417eb122cf35079f65bab">
+        <div class="project-details">
+          <p class="project-description">Description</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="project">
+      <a href="#" target="_blank">
+        <div class="project-overlay"></div>
+        <img class="project-image" src="https://images.unsplash.com/photo-1455894127589-22f75500213a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=204615391e1417eb122cf35079f65bab">
+        <div class="project-details">
+          <p class="project-description">Description</p>
+        </div>
+      </a>
+    </div>
+
+  </div>
+  <div class="clear"></div>
+</section>
+
+<section class="contact">
+
+  <ul class="socials">
+    <li class="social">
+      <a href="#" target="_blank" class="email">
+        <i class="fa fa-envelope" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="social">
+      <a href="#" target="_blank" class="twitter">
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="social">
+      <a href="#" target="_blank" class="linkedin">
+        <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="social">
+      <a href="#" target="_blank" class="codepen">
+        <i class="fa fa-codepen" aria-hidden="true"></i>
+      </a>
+    </li>
+  </ul>
+  <div class="clear"></div>
+</section>
+</body>
+</html>
